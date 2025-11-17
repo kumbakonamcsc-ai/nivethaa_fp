@@ -1,4 +1,5 @@
-a=1
-b=10
-c=a+b
-print(a+b)
+a=1000
+b=400
+c=a//b
+print(c)
+

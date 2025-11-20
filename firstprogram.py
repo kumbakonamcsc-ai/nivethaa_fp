@@ -1,6 +1,4 @@
-a=500
-b=400
-c=a**b
-print(c)
+a=10
+b=100
+print(a+b)
 print ("hello")
-

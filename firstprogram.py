@@ -1,4 +1,3 @@
 a=10
 b=100
-print(a+b)
-print ("hello")
+print(a*b)

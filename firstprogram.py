@@ -1,4 +1,4 @@
-a=10
+a=1000
 b=100
 print(a+b)
-print ("hello")
+print ("helloworld")
